@@ -1,0 +1,43 @@
+Input_C_battery.txt -- Input file for Cost of Battery
+
+Input_C_cable.txt -- Input file for Cost of inductive Cable
+
+Input_c_fix_10.txt -- Input file for fixed part of energy consumption of route 10
+
+Input_c_fix_11.txt -- Input file for fixed part of energy consumption of route 11
+
+Input_c_fix_14.txt -- Input file for fixed part of energy consumption of route 14
+
+Input_c_fix_24.txt -- Input file for fixed part of energy consumption of route 24
+
+Input_C_inv.txt -- Input file for Cost of Inverter
+
+Input_c_unit_10.txt -- Input file for multiplication value to calculate energy consumption for carrying the battery pack of route 10
+
+Input_c_unit_11.txt -- Input file for multiplication value to calculate energy consumption for carrying the battery pack of route 11
+
+Input_c_unit_14.txt -- Input file for multiplication value to calculate energy consumption for carrying the battery pack of route 14
+
+Input_c_unit_24.txt -- Input file for multiplication value to calculate energy consumption for carrying the battery pack of route 24
+
+Input_intersection_idx.txt -- Input file for intersection nodes between routes 10,11,14,24
+
+Input_node_connection.txt -- Input file for node connections in the routes 10,11,14,24
+
+Input_node_indx_10.txt -- Input file for nodes in route 10
+
+Input_node_indx_11.txt -- Input file for nodes in route 11
+
+Input_node_indx_14.txt -- Input file for nodes in route 14
+
+Input_node_indx_24.txt -- Input file for nodes in route 24
+
+Input_P.txt -- Input file for Energy supply rate of the power transmitter
+
+Input_t_10.txt -- Input file for Travel time of the bus to travel through a link in the route 10
+
+Input_t_11.txt -- Input file for Travel time of the bus to travel through a link in the route 11
+
+Input_t_14.txt -- Input file for Travel time of the bus to travel through a link in the route 14
+
+Input_t_24.txt -- Input file for Travel time of the bus to travel through a link in the route 24
